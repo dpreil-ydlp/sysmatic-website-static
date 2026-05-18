@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Sysmatic social preview</title>
+  <desc id="desc">Stop running your company from Slack, Excel, and memory.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1f35" />
+      <stop offset="0.55" stop-color="#17243a" />
+      <stop offset="1" stop-color="#254294" />
+    </linearGradient>
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M 46 0 L 0 0 0 46" fill="none" stroke="#36c2b4" stroke-opacity="0.12" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect width="1200" height="630" fill="url(#grid)" />
+  <rect x="72" y="72" width="1056" height="486" rx="18" fill="#f6faff" />
+  <rect x="92" y="92" width="1016" height="446" rx="10" fill="#ffffff" stroke="#d8e5f2" />
+  <g transform="translate(130 126)">
+    <rect x="0" y="0" width="72" height="72" rx="16" fill="#17243a" />
+    <path d="M20 25h32v8H30v7h20v8H20z" fill="#36c2b4" />
+    <text x="96" y="49" fill="#17243a" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800">Sysmatic</text>
+  </g>
+  <text x="130" y="286" fill="#17243a" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="850">
+    <tspan x="130" dy="0">Stop running your</tspan>
+    <tspan x="130" dy="78">company from Slack,</tspan>
+    <tspan x="130" dy="78">Excel, and memory.</tspan>
+  </text>
+  <text x="130" y="520" fill="#42566f" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">
+    AI workflows and operating systems for founder-led teams.
+  </text>
+  <g transform="translate(860 150)">
+    <rect width="210" height="300" rx="14" fill="#17243a" />
+    <rect x="22" y="26" width="166" height="24" rx="8" fill="#36c2b4" />
+    <rect x="22" y="78" width="166" height="32" rx="8" fill="#254294" opacity="0.72" />
+    <rect x="22" y="128" width="166" height="32" rx="8" fill="#254294" opacity="0.54" />
+    <rect x="22" y="178" width="166" height="32" rx="8" fill="#254294" opacity="0.42" />
+    <path d="M42 246h126" stroke="#36c2b4" stroke-width="10" stroke-linecap="round" />
+  </g>
+</svg>

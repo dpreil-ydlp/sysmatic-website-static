@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Sysmatic mark">
+  <rect width="256" height="256" rx="48" fill="#f7fafd"/>
+  <rect x="28" y="28" width="200" height="200" rx="34" fill="#254294"/>
+  <path d="M76 82h98c18 0 32 14 32 32s-14 32-32 32h-62c-9 0-16 7-16 16s7 16 16 16h72v24h-72c-22 0-40-18-40-40s18-40 40-40h62c5 0 8-3 8-8s-3-8-8-8H76V82Z" fill="#ffffff"/>
+  <path d="M54 54h78v24H54V54Zm70 124h78v24h-78v-24Z" fill="#36c2b4"/>
+  <circle cx="58" cy="190" r="12" fill="#f25f4c"/>
+</svg>

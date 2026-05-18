@@ -1,0 +1,12 @@
+{
+  "name": "sysmatic-website-runtime",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve-dist.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
